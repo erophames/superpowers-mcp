@@ -167,6 +167,9 @@ src/
   prompts/register.ts       One MCP prompt per skill
   resources/register.ts     Static resources per file + resource template for dynamic access
 ```
+### Tests
+
+[![Node.js CI](https://github.com/erophames/superpowers-mcp/actions/workflows/node.js.yml/badge.svg)](https://github.com/erophames/superpowers-mcp/actions/workflows/node.js.yml)[![Node.js CI](https://github.com/erophames/superpowers-mcp/actions/workflows/node.js.yml/badge.svg)](https://github.com/erophames/superpowers-mcp/actions/workflows/node.js.yml)
 
 ## License
 
