@@ -9,7 +9,7 @@ Superpowers is a skills library for Claude Code that enforces disciplined workfl
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/yourusername/superpowers-mcp.git
+git clone https://github.com/erophames/superpowers-mcp.git
 cd superpowers-mcp
 npm install
 npm run build
